@@ -1,0 +1,12 @@
+[2026-05-08 20:55:11] INICIALIZADOR | Algoritmo: Paginacion | Paginas totales: 20
+[2026-05-08 20:56:33] PID:1 | Accion:ENTRA | Tipo:asignacion | Espacios: 0 1 2 3
+[2026-05-08 20:57:13] PID:2 | Accion:ENTRA | Tipo:asignacion | Espacios: 4 5 6 7
+[2026-05-08 20:57:33] PID:1 | Accion:SALE | Tipo:desasignacion | Espacios: 0 1 2 3
+[2026-05-08 20:57:44] PID:3 | Accion:ENTRA | Tipo:asignacion | Espacios: 0 1 2 3
+[2026-05-08 20:57:59] PID:2 | Accion:SALE | Tipo:desasignacion | Espacios: 4 5 6 7
+[2026-05-08 20:58:25] PID:4 | Accion:ENTRA | Tipo:asignacion | Espacios: 4 5 6 7 8 9
+[2026-05-08 20:58:44] PID:3 | Accion:SALE | Tipo:desasignacion | Espacios: 0 1 2 3
+[2026-05-08 20:58:45] PID:4 | Accion:SALE | Tipo:desasignacion | Espacios: 4 5 6 7 8 9
+[2026-05-08 20:59:20] PID:5 | Accion:ENTRA | Tipo:asignacion | Espacios: 0 1 2 3 4 5 6 7 8 9
+[2026-05-08 21:00:08] PID:5 | Accion:SALE | Tipo:desasignacion | Espacios: 0 1 2 3 4 5 6 7 8 9
+[2026-05-08 21:00:14] FINALIZADOR | Sistema detenido y recursos liberados.
